@@ -86,3 +86,9 @@ float: left;
 a {
   color: #666666;
 }
+
+footer {
+  text-align: center;
+  font-size: 80%;
+  padding: 5pxAd;
+}
